@@ -11,7 +11,8 @@ If you read this far, I assume you would be interested in playing my game Haskel
 5. Launch HaskellQuest.exe
 6. If you get a security prompt about applications installed from the web: open anyway.
 
-**Tell me how you found the game**: https://forms.office.com/e/c8rQw6hAZH 
-**Submit your bug reports here**: https://forms.office.com/e/faEBaFb9d3
+**Tell me how you found the game**: https://forms.office.com/e/c8rQw6hAZH
+
+Submit your bug reports here: https://forms.office.com/e/faEBaFb9d3
 
 I hope you enjoy playing HaskellQuest ❤️ - Eve!
